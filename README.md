@@ -9,12 +9,11 @@
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- ♑ Soy autodidacta y estoy siempre en busqueda de nuevos proyecros y tecnologias para aprender.
 - 📓 Soy estudiante de Ingenieria en Sistemas en la UTN FRBA.
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-
+- 🌱 Me encuentro enfocado en el desarrollo BackEnd.
+- 💬 Estoy buscando poder crecer y tener mas participacion en el mundo tech.
+<!--  - 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`. -->
   
 <h3 align="left">Lenguajes y frameworks:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,py,django" /></p>
@@ -28,11 +27,11 @@
 <h2 align="left" font-weight="bold">Mis estadisticas</h2>  
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanNaimo&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="JuanNaimo" /></p>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNaimo&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="JuanNaimo" /></p>
 <br><br><br><br><br><br>
 
-<br>
+
 <hr width="60%" >
 <h3 align="left">Mis redes</h3>
 <p align="left">
@@ -40,7 +39,7 @@
 <a href="https://instagram.com/juannaimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+
 
 ------
 
