@@ -28,7 +28,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanNaimo&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="JuanNaimo" /></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNaimo&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="JuanNaimo" /></p>
 <br><br><br><br><br><br>
 
