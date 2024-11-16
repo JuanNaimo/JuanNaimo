@@ -9,7 +9,7 @@
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
-- ♑ Soy autodidacta y estoy siempre en busqueda de nuevos proyecros y tecnologias para aprender.
+- ♑ Soy autodidacta y estoy siempre en busqueda de nuevos proyectos y tecnologias para aprender.
 - 📓 Soy estudiante de Ingenieria en Sistemas en la UTN FRBA.
 - 🌱 Me encuentro enfocado en el desarrollo BackEnd.
 - 💬 Estoy buscando poder crecer y tener mas participacion en el mundo tech.
