@@ -16,9 +16,9 @@
 <!--  - 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`. -->
   
 <h3 align="left">Lenguajes y frameworks:</h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,py,django" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=go,c,cpp,py,django" /></p>
 <h3 align="left">Aprendiendo: </h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=go,fastapi" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=fastapi" /></p>
 <h3 align="left">Quiero aprender: </h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=aws,gcp" />
 <br><br>
